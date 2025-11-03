@@ -1,0 +1,6 @@
+{
+  "name": "EV Charger",
+  "render_readme": true,
+  "homeassistant": "2023.8.0",
+  "hide_default_branch": true
+}
