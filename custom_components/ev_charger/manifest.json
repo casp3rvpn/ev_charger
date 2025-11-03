@@ -1,0 +1,13 @@
+{
+  "domain": "ev_charger",
+  "name": "EV Charger",
+  "codeowners": ["@your_username"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/your_username/ev_charger",
+  "integration_type": "device",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/your_username/ev_charger/issues",
+  "requirements": ["requests>=2.25.0"],
+  "version": "1.0.0"
+}
